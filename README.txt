@@ -1,3 +1,5 @@
+Notice: This package was built at ~1am in about ~25 minutes. If you're thinking of using this in production, would recommend testing stuff before you do (& submitting any fixes/improvements upstream)!
+
 A simple Go package which parses linkmap files. This is a special file format which we use in the Operand API that we use during index to properly assign links to files within a GitHub repository.
 
 Here's a (dumb) example:

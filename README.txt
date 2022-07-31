@@ -6,4 +6,4 @@ Here's a (dumb) example:
 foo/$1.{md,mdx} https://example.com/posts/$1
 bar/$1/baz/$2.{html} https://example.com/$1/$2
 
-In this case, a file located at foo/xyz.md (relative to the root of the repository) will be mapped to https://example.com/posts/xyz.md.
+In this case, a file located at foo/xyz.md (relative to the root of the repository) will be mapped to https://example.com/posts/xyz.
